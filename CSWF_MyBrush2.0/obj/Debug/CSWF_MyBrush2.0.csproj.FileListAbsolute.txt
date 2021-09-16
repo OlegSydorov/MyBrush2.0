@@ -1,0 +1,14 @@
+E:\Projects\CSWF_MyBrush2.0\CSWF_MyBrush2.0\bin\Debug\CSWF_MyBrush2.0.exe.config
+E:\Projects\CSWF_MyBrush2.0\CSWF_MyBrush2.0\bin\Debug\CSWF_MyBrush2.0.exe
+E:\Projects\CSWF_MyBrush2.0\CSWF_MyBrush2.0\bin\Debug\CSWF_MyBrush2.0.pdb
+E:\Projects\CSWF_MyBrush2.0\CSWF_MyBrush2.0\obj\Debug\CSWF_MyBrush2.0.csprojAssemblyReference.cache
+E:\Projects\CSWF_MyBrush2.0\CSWF_MyBrush2.0\obj\Debug\CSWF_MyBrush2._0.Form1.resources
+E:\Projects\CSWF_MyBrush2.0\CSWF_MyBrush2.0\obj\Debug\CSWF_MyBrush2._0.Properties.Resources.resources
+E:\Projects\CSWF_MyBrush2.0\CSWF_MyBrush2.0\obj\Debug\CSWF_MyBrush2.0.csproj.GenerateResource.cache
+E:\Projects\CSWF_MyBrush2.0\CSWF_MyBrush2.0\obj\Debug\CSWF_MyBrush2.0.csproj.CoreCompileInputs.cache
+E:\Projects\CSWF_MyBrush2.0\CSWF_MyBrush2.0\obj\Debug\CSWF_MyBrush2.0.exe
+E:\Projects\CSWF_MyBrush2.0\CSWF_MyBrush2.0\obj\Debug\CSWF_MyBrush2.0.pdb
+E:\Projects\CSWF_MyBrush2.0\CSWF_MyBrush2.0\obj\Debug\CSWF_MyBrush2._0.LineForm.resources
+E:\Projects\CSWF_MyBrush2.0\CSWF_MyBrush2.0\obj\Debug\CSWF_MyBrush2._0.OpacityForm.resources
+E:\Projects\CSWF_MyBrush2.0\CSWF_MyBrush2.0\obj\Debug\CSWF_MyBrush2._0.HatchForm.resources
+E:\Projects\CSWF_MyBrush2.0\CSWF_MyBrush2.0\obj\Debug\CSWF_MyBrush2._0.AddTextForm.resources
